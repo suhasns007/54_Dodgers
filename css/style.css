@@ -1,0 +1,218 @@
+
+
+
+
+
+/* Body 
+------------------------------------- */
+body {
+    background: #ffffff;
+font-family: 'Open Sans', sans-serif;
+font-weight: 400;
+position: absolute;
+}
+
+html,body {
+  width: 100%;
+ overflow-x: hidden;
+}
+
+
+
+/* Typography
+------------------------------------- */
+h1,h2,h3,h4,h5 {
+font-weight: bold;
+}
+
+h1 {
+font-size: 62px;
+line-height: 72px;
+color: darkred;
+}
+
+h2 {
+color: #323232;
+font-size: 26px;
+line-height: 42px;
+letter-spacing: 1px;
+padding-bottom: 12px;
+}
+
+h3 {
+color: #ffa400;
+font-size: 16px;
+letter-spacing: 26px;
+letter-spacing: 2px;
+}
+
+h5 {
+color: #ffa400;
+line-height: 28px;
+letter-spacing: 2px;
+}
+
+p {
+font-size: 25px;
+letter-spacing: 0.9px;
+line-height: 32px;
+}
+
+
+
+/* All Section styles
+------------------------------------- */
+#contact {
+   padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+
+
+.parallax-section {
+  background-attachment: fixed !important;
+  background-size: cover !important;
+
+  
+}
+
+
+
+/* navigation styles
+/* ========================================== */
+.navbar-default {
+background: lightgray;
+border: darkgray;
+
+box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.04);
+margin: 0 !important;
+}
+.navbar-default .navbar-brand {
+font-size: 20px;
+font-weight: bold;
+margin: 0;
+}
+.navbar-default nav {
+margin: 15px 20px;
+}
+.navbar-default nav a {
+color: #303030;
+font-size: 20px;
+font-weight: bold;;
+padding: 20px;
+
+}
+.navbar-default nav a:hover {
+color: #ffa400;
+}
+/* .navbar-default nav > a:hover,
+.navbar-default nav > a:focus {
+color: #303030;
+background-color: transparent;
+}
+.navbar-default nav > a,
+.navbar-default nav > a:hover,
+.navbar-default nav > a:focus {
+color: #ffa400;
+background-color: transparent;
+} */
+
+
+nav{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: right;
+  padding-inline-end: 20px;
+  border-radius: 5%;
+}
+/*
+nav .nav-link1{
+  padding-inline-end: 20px;
+}
+nav .nav-link2{
+  padding-inline-end: 20px;
+}
+nav .nav-link3{
+  padding-inline-end: 20px;
+}
+nav .nav-link4{
+  padding-inline-end: 20px;
+}
+nav .nav-link5{
+  padding-inline-end: 20px;
+} */
+
+
+/* home section styles
+/* ========================================== */
+#home {
+background: url('../images/image-home.jpg') 100% 0 repeat-y fixed;
+border-radius: 2%;
+height: 100vh;
+text-align: center;
+
+}
+
+
+
+#home h1{
+  color: cyan;
+  size: 70px;
+  position: absolute;
+  top: 17%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+/* about section styles
+/* ========================================== */
+#about{
+  background: url('../images/image2.jpg');
+  border-radius: 2%;
+  height: 100vh;
+  
+}
+#about .container {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Lucida Sans';
+}
+#about h1{
+ color: darkslategray;
+}
+
+#about .about-p{
+  width: 70%;
+  padding: 10px;
+  margin: 0px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+
+
+
+
+/* contact section styles
+/* ========================================== */
+#contact {
+background: url('../images/contact-bg.jpg') 50% 0 repeat-y fixed;
+border-radius: 2%;
+
+}
+
+
+#contact .contact-detail {
+background: rgba(250,250,250,0.75);
+padding: 34px 10px 34px 60px;
+}
+
+#contact .contact-detail h2 {
+padding-bottom: 28px;
+}
+
+#contact .contact-detail div {
+padding-bottom: 10px;
+}
