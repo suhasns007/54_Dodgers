@@ -17,7 +17,7 @@ $noticia = mysqli_fetch_assoc($rec);
 if($noticia)
 {
 $_SESSION['login_user']=$userid;
-header("location:citipage.php?myaccount=$userid");
+header("location:citihomepage.php?myaccount=$userid");
 }
 else
 {
