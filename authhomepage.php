@@ -5,7 +5,7 @@
 </head>
 <body>
     <div class="displayissues">
-        <a href="displayissues.php" target="_self">Display cissues rasied by citizens</a>
+        <a href="authpage.php" target="_self">Display cissues rasied by citizens</a>
     </div>
     <div class="displaycitizens">
         <a href="displaycitizens.php" target="_self">Display citizens and their details</a>
