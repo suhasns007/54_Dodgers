@@ -1,0 +1,30 @@
+/* body{
+    background:url('../images/image2.jpg');
+}*/
+
+.elech1{
+    background-color: aqua;    
+}
+
+.municipal1{
+    background-color:burlywood;    
+}
+
+.it1{
+    background-color:lightgray;    
+}
+
+.form-control{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 20px;
+}
+
+.issuesubmit{
+    background: linear-gradient(#fa4b37, #df2771);
+    color: white;
+    font-size: 20px;
+    border:none;
+}
