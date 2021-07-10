@@ -1,3 +1,4 @@
+<?php
 <html>
     <head>
         <title>Queries page</title>
@@ -10,3 +11,4 @@
         <input type="submit" value='Submit my complaint'>
 </body>
 </html>
+?>
