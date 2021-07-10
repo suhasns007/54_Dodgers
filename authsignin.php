@@ -10,7 +10,7 @@ $password=$_POST['authpassword'];
 
 
 
-$rec=mysqli_query($con, "SELECT * FROM auth_tab WHERE ID='$userid' AND PASSWORD='$password'");
+$rec=mysqli_query($con, "SELECT * FROM auth_tab WHERE authusername='$userid' AND authpassword='$password'");
 
 $noticia = mysqli_fetch_assoc($rec);
 
