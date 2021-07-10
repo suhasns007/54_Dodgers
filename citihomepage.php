@@ -9,7 +9,7 @@
         </div>
         <div class="citipage">
             <br><br>
-            <a href="citipage.php" target="_self"> Go to citizen page</a>
+            <a href="citipage.php" target="_self">Raise your issues here</a>
         </div>
     </body>
 </html>
