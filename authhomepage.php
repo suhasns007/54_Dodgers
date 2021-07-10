@@ -1,4 +1,5 @@
-<html>
+<?php
+    <html>
     <head>
         <title>Authority homepage</title>
 </head>
@@ -11,3 +12,4 @@
     </div>
 </body>
 </html>
+?>
