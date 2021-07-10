@@ -1,3 +1,4 @@
+<?php
 <html>
     <head>
         <title>Citizen home page</title>
@@ -12,3 +13,4 @@
         </div>
     </body>
 </html>
+?>
