@@ -1,15 +1,15 @@
 <?php
 //connect to database
-$con = new mysqli("localhost", "root", "", "admin_db");
+$con = new mysqli("localhost", "root", "", "govt_db");
 
  
 
 //access the values from the html form
-$citizenusername = $_REQUEST["citiusername"];
-$citizenemail = $_REQUEST["citiemail"];
-$citizenphno = $_REQUEST["citiphno"];
-$citizenpwd = $_REQUEST["citipassword"];
-$citizenaadhar = $_REQUEST["citiaadhar"]
+$citizenusername = $_REQUEST["citizenusername"];
+$citizenemail = $_REQUEST["citizenemail"];
+$citizenphno = $_REQUEST["citizenphno"];
+$citizenpwd = $_REQUEST["citizenpwd"];
+$citizenaadhar = $_REQUEST["citizenaadhar"];
 
  
 
