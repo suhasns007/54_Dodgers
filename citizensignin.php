@@ -5,8 +5,8 @@ $con = new mysqli("localhost", "root", "", "govt_db");
 if($_SERVER["REQUEST_METHOD"] == "POST")
 {
 // username and password sent from form 
-$userid=$_POST['citiusername']; 
-$password=$_POST['citipassword']; 
+$userid=$_POST['citizenusername']; 
+$password=$_POST['citizenpwd']; 
 
 
 
