@@ -15,9 +15,12 @@
 <br><br>
 <div class="elecissue">
 <center>    
+     <form class="form-issue" action="ele.php" method="POST">  
+        <input type="text" name="username" placeholder="Type your name here"> <br><br>
 <textarea name="elecomplaint" rows="20" class="form-control" placeholder="State your issues here" message="message"></textarea>
 <br><br>
 <button class="issuesubmit" type="submit">Submit</button>
+    </form>
 </center>
 </div>
 </body>
