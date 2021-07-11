@@ -1,4 +1,5 @@
 <html>
+	<?php ?>
 <head>
   <link rel="stylesheet" href="./css/authissues.css">
 </head>
