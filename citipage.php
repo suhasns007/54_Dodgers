@@ -1,5 +1,6 @@
-<?php
+
 <html>
+	<?php ?>
 <head>
   <link rel="stylesheet" href="./css/electricityissues.css">
 </head>
@@ -84,4 +85,4 @@
 </body>
 
 </html>
-    ?>
+
