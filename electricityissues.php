@@ -4,7 +4,7 @@
         <title>elec_issues</title>
         <link rel="stylesheet" type="text/css" href="./css/electricityissues.css">
 </head>
-<body>
+<body style="background-color:lightyellow">
     <center>
     <div class="elech1">
         <h1>Electricity Department</h1>
