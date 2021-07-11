@@ -17,7 +17,7 @@ $noticia = mysqli_fetch_assoc($rec);
 if($noticia)
 {
 $_SESSION['login_user']=$userid;
-header("location:authhomepage.php?myaccount=$userid");
+header("location:authpage.php?myaccount=$userid");
 }
 else
 {
