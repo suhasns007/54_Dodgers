@@ -4,7 +4,7 @@
 <head>
   <link rel="stylesheet" href="./css/electricityissues.css">
 </head>
-<body>
+<body style="background-color:lightgrey">
     <center>
     <div class="departments" style="background-color:cyan">
         <h1>List of Departments</h1>
@@ -16,13 +16,14 @@
 	 style="width:300px;
             height:400px;
 			border:2px solid gray;
+			background-color:white;
 			padding:10px;
 			border-radius:10px;
 			margin-left:40px;
             margin-top:10px
             float:center">
 		
-	<img src="" alt="not available" width="300" height="250"
+	<img src="./images/ele.jpg" alt="not available" width="300" height="250"
 	 class="alignnone size-medium wp-image-560930"/>
 	
 	
@@ -38,6 +39,7 @@
 	 style="width:300px;
             height:400px;
 			border:2px solid gray;
+			background-color:white;
 			padding:10px;
 			border-radius:10px;
 			margin-left:600px;
@@ -45,7 +47,7 @@
             float:center;
 	">
 		
-	<img src="" alt="not available" width="300" height="250"
+	<img src="./images/mun.jpeg" alt="not available" width="300" height="250"
 	 class="alignnone size-medium wp-image-560930"/>
 	
 	
@@ -61,6 +63,7 @@
 	 style="width:300px;
             height:400px;
 			border:2px solid gray;
+			background-color:white;
 			padding:10px;
 			border-radius:10px;
 			margin-left:1150px;
@@ -68,7 +71,7 @@
             float:center;
 	">
 		
-	<img src="" alt="not available" width="300" height="250"
+	<img src="./images/it.jpg" alt="not available" width="300" height="250"
 	 class="alignnone size-medium wp-image-560930"/>
 	
 	
